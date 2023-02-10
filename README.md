@@ -19,8 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create Resource Group and Virtual Machine via Microsoft Azure 
-- Copy IP Address of VM (labeled vm-osticket)
-- Open Remote Desktop, paste IP Address, Log in using credentials you made during VM process. 
+- Copy the IP Address of Virtual Machine you just created (vm-osticket)
+- Open Remote Desktop, paste IP Address, Log in using credentials you made during Virtual Machine process. 
 - Install / Enable IIS in Windows WITH CGI
 
 <h2>Installation Steps</h2>
