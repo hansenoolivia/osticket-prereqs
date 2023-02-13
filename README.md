@@ -27,6 +27,7 @@ https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/
 - Install Rewrite Module
 - Create the directory C:\PHP
 - Install PHP 7.3.8 and unzip the contents into C:\PHP
+- Download and Install C++ Redistributable
 - 
 
 
@@ -85,15 +86,13 @@ Once downloaded, right click on file, extract all, when it wants destination, cl
 </p>
 <br />
 
-Step  - 
+Step 6 - Download and Install C++ Redistributable
  
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9zRU2Xs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-Description - 
-
+Once downloaded, double click on file, Agree to terms and conditions and install, close. 
 
 </p>
 <br />
