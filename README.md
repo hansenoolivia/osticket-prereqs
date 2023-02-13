@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
--Provided below is the link you will need in order to be able to dowload and install files-
+-Provided below is the link you will need in order to download each step from the Installation files-
 https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
 </p>
 <br />
