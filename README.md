@@ -18,19 +18,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Resource Group and Virtual Machine via Microsoft Azure 
-- Copy the IP Address of Virtual Machine you just created (vm-osticket)
-- Open Remote Desktop, paste IP Address, Log in using credentials you made during Virtual Machine process. 
-- Install / Enable IIS in Windows WITH CGI
+- Install / Enable IIS in Windowns with CGI 
+- 
+- 
+- 
 
 <h2>Installation Steps</h2>
-- Installing and Enabling Information Internet Services on Windows
+- Installing and Enabling Information Internet Services on Windows with CGI
  
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+IIS: Internet Information Services - Web server that allows this computer to serve up websites. 
+
+Right click start menu, click run, type control for control panel, under programs, click turn windows features on / off
+Click and expand Information Internet Services, expand world wide web, expand application developer, click CGI (CGI lets us install PHP MANAGER)
+Install
+
+Test web sever: Type 127.0.0.1 into URL search bar, it should load IIS Default Website. 
 </p>
 <br />
 
