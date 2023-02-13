@@ -40,7 +40,7 @@ Test web sever: Type 127.0.0.1 into URL search bar, it should load IIS Default W
 </p>
 <br />
 
--From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+Step 1 - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 <p>
 <img src="https://i.imgur.com/G9lgwnZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -49,7 +49,7 @@ Download PHP from installation files to computer, open downloads folder and doub
 </p>
 <br />
 
--From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+Step 2 - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 <p>
 <img src="https://i.imgur.com/AX4ClvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -60,12 +60,12 @@ Download Rewrite Module, open downloads folder, double click to install, finish.
 
 </p>
 <br />
-
-
+-
+Step 3 - Create the directory C:\PHP
 <p>
-<img src="https://i.imgur.com/AX4ClvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M5FdBHO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
+Type C:into File Explorer search bar, right click under existing folders above and choose New, Folder, and type PHP, click enter). 
 </p>
 <br />
