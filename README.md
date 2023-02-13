@@ -73,3 +73,235 @@ Step 4 - Create the directory C:\PHP
 Type C: into File Explorer search bar, right click under existing folders above and choose New, Folder, and type PHP, click enter). 
 </p>
 <br />
+
+Step 5 - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+ 
+<p>
+<img src="https://i.imgur.com/3lCESBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once downloaded, right click on file, extract all, when it wants destination, click browse, This PC, windows(C:), PHP folder, select and click extract. 
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
+
+Step  - 
+ 
+<p>
+<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Description - 
+
+
+</p>
+<br />
