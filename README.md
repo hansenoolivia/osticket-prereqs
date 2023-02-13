@@ -170,9 +170,20 @@ Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browse, observe the changes.
 
+<p>
+<img src="https://i.imgur.com/LCxNNU8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oW12QWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DVSEFcQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5GHfrxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BeXt5TD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B1byKWa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 </p>
 <br />
+
+<h2>Rename: ost-config.php</h2>
 
 Step  - 
  
