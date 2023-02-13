@@ -126,14 +126,14 @@ Step 8 & 9 - Open IIS as an Admin & Register PHP from within IIS
 
 Click start, type IIS, right click Internet Information Services and run as administrator. 
 Register PHP now, click PHP manager app, double click, PHP is not enabled so we need to register new PHP version, browse to where we put all the PHP files. 
-C drive, PHP, click PHP.cgi (PHP executable), click open. A
+C drive, PHP, click PHP.cgi (PHP executable), click open. 
 
-*Anytime you do anything to IIS, it's recommended that you restart the web server, To do this click name of server at the top left and then go to Restart that is on top right of page*
+*Anytime you do anything to IIS, it is recommended that you restart the web server, To do this click name of server at the top left and then go to Restart that is on top right of page*
 
 </p>
 <br />
 
-Step  - 
+<h2>Installing os Ticket</h2>
  
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
