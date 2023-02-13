@@ -57,3 +57,15 @@ Download PHP from installation files to computer, open downloads folder and doub
 Download Rewrite Module, open downloads folder, double click to install, finish. 
 </p>
 <br />
+
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/AX4ClvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+</p>
+<br />
