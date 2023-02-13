@@ -134,14 +134,9 @@ C drive, PHP, click PHP.cgi (PHP executable), click open.
 <br />
 
 <h2>Installing os Ticket</h2>
+ </p>
+ <p>
  
-<p>
-<img src="https://i.imgur.com/kWb292F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GtwtQz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/LJZiYZs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
 First - Download osTicket from the Installation Files Folder & Extract and copy “upload” folder to c:\inetpub\wwwroot
 
 Find osTicket file (zip file) under downloads, double click, we want to drag the uploads file into a separate folder to 
@@ -152,6 +147,14 @@ Now, Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Once the 
 can right click the upload folder and click rename, type osTicket and hit enter. 
 
 Reload IIS again and click Restart. 
+<p>
+<img src="https://i.imgur.com/kWb292F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uXDpqdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7z5EU9W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+
 
 Now reopen IIS, click sites underneath web server name (top left), default web site, click osTicket, 
 on the right, click browse, *80. This should open up os Ticket if it does not then it means you've made an error. 
