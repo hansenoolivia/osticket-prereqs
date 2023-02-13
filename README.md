@@ -28,7 +28,7 @@ https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/
 - Create the directory C:\PHP
 - Install PHP 7.3.8 and unzip the contents into C:\PHP
 - Download and Install C++ Redistributable
-- 
+- Download and Install MySQL 5.5.62
 
 
 <h2>Installation Steps</h2>
@@ -97,14 +97,18 @@ Once downloaded, double click on file, Agree to terms and conditions and install
 </p>
 <br />
 
-Step  - 
+Step 7 - Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
  
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2O8XkP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Description - 
+Double click mysql file once downloaded, click next, I accept agreement, typical install, install, 
+make sure Launch the MySQL Instance Configuration Wizard is checked, finish.
+
+Open notepad and write down credentials so you dont forget! 
+Click next, choose standard configuration, next. Fill out username and password of choice, next, execute, Finish.
 
 
 </p>
