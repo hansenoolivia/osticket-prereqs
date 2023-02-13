@@ -20,6 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -Provided below is the link you will need in order to be able to dowload and install files-
 https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
 
+
+
 - Install / Enable IIS in Windowns with CGI 
 - Install PHP Manager for IIS 
 - Install Rewrite Module
