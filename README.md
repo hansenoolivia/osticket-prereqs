@@ -193,15 +193,26 @@ Refresh the osTicket site in your browse, observe the changes.
 <p>
 
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+ 
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<p>
+ 
+Once you've changed the name to ost-config.php, you will need to right click and click Properties, Security, Advanced, Disable Inheritance, 
+Choose "Remove all inherited permissions from this object". Add, select principal, enter "everyone" in object box. 
+Click ok, Basic permissions: Full Control, Ok, Apply, Ok. 
 
 
 </p>
 <br />
 
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 <h2>Assign Permissions: ost-config.php</h2>
 
- 
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
