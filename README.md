@@ -51,7 +51,7 @@ Download PHP from installation files to computer, open downloads folder and doub
 
 -From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/AX4ClvR.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AX4ClvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download Rewrite Module, open downloads folder, double click to install, finish. 
