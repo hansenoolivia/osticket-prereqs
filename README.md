@@ -136,11 +136,36 @@ C drive, PHP, click PHP.cgi (PHP executable), click open.
 <h2>Installing os Ticket</h2>
  
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kWb292F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GtwtQz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LJZiYZs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Description - 
+First - Download osTicket from the Installation Files Folder & Extract and copy “upload” folder to c:\inetpub\wwwroot
+
+Find osTicket file (zip file) under downloads, double click, we want to drag the uploads file into a separate folder to 
+c: \intetpub\wwwroot. To do this we will open up separate file explorer, click This PC, Windows (C:), innetpub, wwwroot, 
+now we can drag the upload folder into this wwwroot folder. 
+
+Now, Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Once the upload file has processed into wwwroot, you
+can right click the upload folder and click rename, type osTicket and hit enter. 
+
+Reload IIS again and click Restart. 
+
+Now reopen IIS, click sites underneath web server name (top left), default web site, click osTicket, 
+on the right, click browse, *80. This should open up os Ticket if it does not then it means you've made an error. 
+You'll need to restart the lab over or try to find where you went wrong along the way. 
+
+os Ticket should open, *Note that some extensions are not enabled*
+
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes.
 
 
 </p>
