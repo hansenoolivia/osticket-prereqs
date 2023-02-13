@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 IIS: Internet Information Services - Web server that allows this computer to serve up websites. 
 
 Right click start menu, click run, type control for control panel, under programs, click turn windows features on / off,
-click and expand Information Internet Services, expand world wide web services, expand application development features, click CGI (CGI lets us install PHP MANAGER), 
+click and expand Information Internet Services, expand world wide web services, expand application development features, click CGI (CGI lets us install PHP Manager), 
 Install.
 
 Test web sever: Type 127.0.0.1 into URL search bar, it should load IIS Default Website. 
