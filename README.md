@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 
 
 <h2>Installation Steps</h2>
-- Installing and Enabling Information Internet Services on Windows with CGI
+Step 1 - Installing and Enabling Information Internet Services on Windows with CGI
  
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -40,7 +40,7 @@ Test web sever: Type 127.0.0.1 into URL search bar, it should load IIS Default W
 </p>
 <br />
 
-Step 1 - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+Step 2 - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 <p>
 <img src="https://i.imgur.com/G9lgwnZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -49,7 +49,7 @@ Download PHP from installation files to computer, open downloads folder and doub
 </p>
 <br />
 
-Step 2 - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+Step 3 - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 <p>
 <img src="https://i.imgur.com/AX4ClvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -61,7 +61,7 @@ Download Rewrite Module, open downloads folder, double click to install, finish.
 </p>
 <br />
 -
-Step 3 - Create the directory C:\PHP
+Step 4 - Create the directory C:\PHP
 <p>
 <img src="https://i.imgur.com/M5FdBHO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
