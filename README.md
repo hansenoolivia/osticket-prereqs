@@ -29,6 +29,7 @@ https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/
 - Install PHP 7.3.8 and unzip the contents into C:\PHP
 - Download and Install C++ Redistributable
 - Download and Install MySQL 5.5.62
+- Open IIS as an Admin & Register PHP from within IIS
 
 
 <h2>Installation Steps</h2>
@@ -114,15 +115,20 @@ Click next, choose standard configuration, next. Fill out username and password 
 </p>
 <br />
 
-Step  - 
+Step 8 & 9 - Open IIS as an Admin & Register PHP from within IIS
  
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wUXi66Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MzaBYy0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PesIWbu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Description - 
+Click start, type IIS, right click Internet Information Services and run as administrator. 
+Register PHP now, click PHP manager app, double click, PHP is not enabled so we need to register new PHP version, browse to where we put all the PHP files. 
+C drive, PHP, click PHP.cgi (PHP executable), click open. A
 
+*Anytime you do anything to IIS, it's recommended that you restart the web server, To do this click name of server at the top left and then go to Restart that is on top right of page*
 
 </p>
 <br />
