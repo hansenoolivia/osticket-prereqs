@@ -17,13 +17,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+-Provided below is the link you will need in order to be able to dowload and install files-
+https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#
 
 - Install / Enable IIS in Windowns with CGI 
 - Install PHP Manager for IIS 
 - Install Rewrite Module
 - Create the directory C:\PHP
 - Install PHP 7.3.8 and unzip the contents into C:\PHP
-- -
+- 
 
 
 <h2>Installation Steps</h2>
