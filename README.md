@@ -20,8 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install / Enable IIS in Windowns with CGI 
 - Install PHP Manager for IIS 
-- 
-- 
+- Install Rewrite Module
+- Create the directory C:\PHP
+- Install PHP 7.3.8 and unzip the contents into C:\PHP
+- -
+
 
 <h2>Installation Steps</h2>
 Step 1 - Installing and Enabling Information Internet Services on Windows with CGI
@@ -58,14 +61,11 @@ Download Rewrite Module, open downloads folder, double click to install, finish.
 </p>
 <br />
 
-</p>
-<br />
--
 Step 4 - Create the directory C:\PHP
 <p>
 <img src="https://i.imgur.com/M5FdBHO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type C:into File Explorer search bar, right click under existing folders above and choose New, Folder, and type PHP, click enter). 
+Type C: into File Explorer search bar, right click under existing folders above and choose New, Folder, and type PHP, click enter). 
 </p>
 <br />
