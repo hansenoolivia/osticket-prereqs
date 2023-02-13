@@ -184,21 +184,23 @@ Refresh the osTicket site in your browse, observe the changes.
 <br />
 
 <h2>Rename: ost-config.php</h2>
-
-Step  - 
  
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fDmaM4V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+<img src="https://i.imgur.com/DmGfRFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Description - 
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
 </p>
 <br />
 
-Step  - 
+<h2>Assign Permissions: ost-config.php</h2>
+
  
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
