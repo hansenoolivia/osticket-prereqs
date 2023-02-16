@@ -197,9 +197,11 @@ From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <p>
+<br />
  
-Once you've changed the name to ost-config.php, you will need to right click and click Properties, Security, Advanced, Disable Inheritance, 
-Choose "Remove all inherited permissions from this object". Add, select principal, enter "everyone" in object box. 
+<h2>Assign Permissions: ost-config.php</h2>
+ 
+Once you've changed the name to ost-config.php, you will need to assign permissions to ost-config.php. Right click and click Properties, Security, Advanced, Disable Inheritance, Choose "Remove all inherited permissions from this object". Add, select principal, enter "everyone" in object box. 
 Click ok, Basic permissions: Full Control, Ok, Apply, Ok. 
 
 
@@ -215,8 +217,7 @@ Click ok, Basic permissions: Full Control, Ok, Apply, Ok.
 <img src="https://i.imgur.com/c88A4sn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-<h2>Assign Permissions: ost-config.php</h2>
+<br />
 
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
