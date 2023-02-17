@@ -218,19 +218,24 @@ Click ok, Basic permissions: Full Control, Ok, Apply, Ok.
 </p>
 <p>
 <br />
-
+ 
+<h2>Continue Setting up osTicket in the browser (click Continue)</h2>
+-From the Installation Files, download and install HeidiSQL-
 <p>
-<img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3JMV4Fq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Description - 
+Install everything once done, create new connection to database, click new, 
+username:root
+password:Password1
+These credentials should match the credentials you made during the MySQL setup.  
 
 
 </p>
 <br />
 
-Step  - 
+
  
 <p>
 <img src="https://i.imgur.com/y6SuxGq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
